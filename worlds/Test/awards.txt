@@ -1,0 +1,1 @@
+return {["singleplayer"] = {["place"] = {}, ["unlocked"] = {}, ["chats"] = 0, ["joins"] = 1, ["count"] = {}, ["name"] = "singleplayer", ["deaths"] = 0}}

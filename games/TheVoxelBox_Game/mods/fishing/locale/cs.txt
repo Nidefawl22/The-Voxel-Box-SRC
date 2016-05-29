@@ -1,0 +1,44 @@
+#COMMON
+seaweed.=r$asy.
+water lily.=lekni#n.
+Your fish escaped.=Vas$e ryba unikla.
+You caught=Chytil jste
+Bait is still here.=Z$i#z$ala je sta#le zde.
+You caught nothing.=Nic jste nechytil.
+Fish=Ryba
+Northern pike=Severska# s$tika
+Small shark=Maly# z$ralok
+
+#bobber.lua
+fish.=rybu.
+clownfish.= rybu klaun.
+blue-white fish.=modrobi#lou rybu.
+stick.=klacek.
+rat.=krysu.
+green kelp.=zelene# chaluhy.
+string.=provaz.
+old pole.=starou udici.
+You caught fish.=Chytil jste rybu.
+
+#bobber_shark.lua
+small shark.=male#ho z$raloka.
+northern pike.=severskou s$tiku.
+
+#fishes.lua
+Cooked fish=Pec$ena# ryba
+Sushi=Sus$i
+Small cooked shark=Maly# pec$eny# z$ralok
+Cooked northern pike=Pec$ena# severska# s$tika
+
+#init.lua
+Pole=Udice
+
+#trophies.lua
+Clownfish=Ryba klaun
+Blue-white fish=Modrobi#la# ryba
+trophy=trofej
+This giant catch of species=Tento obrovsky# u#lovek druhu
+was caught by excellent fisher=byl chycen famo#zni#m ryba#r$em
+
+#worm.lua
+Bait worm=Z$i#z$ala

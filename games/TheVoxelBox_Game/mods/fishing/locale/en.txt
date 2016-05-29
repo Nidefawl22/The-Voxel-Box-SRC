@@ -1,0 +1,44 @@
+#COMMON
+seaweed.=seaweed.
+water lily.=water lily.
+Your fish escaped.=Your fish escaped.
+You caught=You caught
+Bait is still here.=Bait is still here.
+You caught nothing.=You caught nothing.
+Fish=Fish
+Northern pike=Northern pike
+Small shark=Small shark
+
+#bobber.lua
+fish.=fish.
+clownfish.=clownfish.
+blue-white fish.=blue-white fish.
+stick.=stick.
+rat.=rat.
+green kelp.=green kelp.
+string.=string.
+old pole.=old pole.
+You caught fish.=You caught fish.
+
+#bobber_shark.lua
+small shark.=small shark.
+northern pike.=northern pike.
+
+#fishes.lua
+Cooked fish=Cooked fish
+Sushi=Sushi
+Small cooked shark=Small cooked shark
+Cooked northern pike=Cooked northern pike
+
+#init.lua
+Pole=Pole
+
+#trophies.lua
+Clownfish=Clownfish
+Blue-white fish=Blue-white fish
+trophy=trophy
+This giant catch of species=This giant catch of species
+was caught by excellent fisher=was caught by excellent fisher
+
+#worm.lua
+Bait worm=Bait worm

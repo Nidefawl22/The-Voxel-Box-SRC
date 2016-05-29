@@ -1,0 +1,41 @@
+CC-BY-SA:
+locale/cs.txt-author Martin Schmied
+locale/de.txt-author Martin Schmied
+locale/en.txt-author Martin Schmied
+textures/animal_clownfish_clownfish_item.png-author Mossmanikin
+textures/animal_fish_blue_white_fish_blue_white_item.png-author Mossmanikin
+textures/fishing_bobber_bottom.png-author Mossmanikin
+textures/fishing_bobber_feather_1.png-author Mossmanikin
+textures/fishing_bobber.png-author Mossmanikin
+textures/fishing_bobber_top.png-author Mossmanikin
+textures/fishing_deco_pike.png-author Mossmanikin
+textures/fishing_fish_cooked.png-author Mossmanikin
+textures/fishing_fish.png-author Mossmanikin
+textures/fishing_pike_cooked.png-author Mossmanikin
+textures/fishing_pike.png-author Mossmanikin
+textures/fishing_pole_back.png-author Mossmanikin
+textures/fishing_pole_bottom.png-author Mossmanikin
+textures/fishing_pole_deco.png-author Mossmanikin
+textures/fishing_pole_front.png-author Mossmanikin
+textures/fishing_pole.png-author Mossmanikin
+textures/fishing_pole_simple.png-author Mossmanikin
+textures/fishing_pole_top.png-author Mossmanikin
+textures/fishing_shark_cooked.png-author Mossmanikin
+textures/fishing_shark.png-author Mossmanikin
+textures/fishing_sushi.png-author Mossmanikin
+textures/fishing_trophy_label.png-author Mossmanikin
+textures/fishing_worm.png-author Mossmanikin
+
+
+CC-BY-NC-SA:
+sounds/fishing_bobber1.ogg-author Robinhood76
+sounds/fishing_bobber2.ogg-author Robinhood76
+
+GNU GPL:
+bobber.lua-author Mossmanikin, wulfsdad, PilzAdam, Jeija, paramat, some changes by Martin Schmied
+bobber_shark.lua-author Mossmanikin, some changes by Martin Schmied
+crafting.lua-author Mossmanikin, wulfsdad, sapier, Casimir
+fishes.lua-authors Mossmanikin, wulfsdad, some changes by Martin Schmied
+init.lua-authors Mossmanikin, wulfsdad, sapier, Casimir, some changes by Martin Schmied
+trophies.lua-author Mossmanikin, Perttu Ahola (celeron55), some changes by Martin Schmied
+worm.lua-authors Mossmanikin, wulfsdad, PilzAdam, some changes by Martin Schmied

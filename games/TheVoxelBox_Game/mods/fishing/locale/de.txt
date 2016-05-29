@@ -1,0 +1,44 @@
+#COMMON
+seaweed.=Seetang.
+water lily.=Seerose.
+Your fish escaped.=Ihr Fisch ist entflogen.
+You caught=Sie fingen
+Bait is still here.=Regenwurm ist immer hier.
+You caught nothing.=Sie fingen nichts.
+Fish=Fisch
+Northern pike=Nordischer Hecht
+Small shark=Kleiner Haifisch
+
+#bobber.lua
+fish.=fisch.
+clownfish.=Clownfisch.
+blue-white fish.=blauweißen Fisch.
+stick.=Knüppel.
+rat.=Ratte.
+green kelp.=Grünes Seetang.
+string.=Strick.
+old pole.=alte Angel.
+You caught fish.=Sie fingen Fisch.
+
+#bobber_shark.lua
+small shark.=kleinen Haifisch.
+northern pike.=nordischen Hecht.
+
+#fishes.lua
+Cooked fish=Gebratener Fisch
+Sushi=Sushi
+Small cooked shark=Kleiner gebratener Haifisch
+Cooked northern pike=Gebratener nordischer Hecht
+
+#init.lua
+Pole=Angel
+
+#trophies.lua
+Clownfish=Clownfisch
+Blue-white fish=Blauweißer Fisch
+trophy=Trophäe
+This giant catch of species=Dieser riesiger Fang der Art
+was caught by excellent fisher=war gefangen von famosem Fisher
+
+#worm.lua
+Bait worm=Regenwurm
