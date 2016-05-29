@@ -45,12 +45,12 @@ end
 
 --------------------------------------------------------------------------------
 function mm_texture.reset()
-	mm_texture.gameid = nil
-	local have_bg      = false
-	local have_overlay = mm_texture.set_generic("overlay")
+	mm_texture.gameid = menu_bg
+	local have_bg      = true
+	local have_overlay = mm_texture.set_generic("menu_bg")
 	
 	if not have_overlay then
-		have_bg = mm_texture.set_generic("background")
+		have_bg = mm_texture.set_generic("menu_bg")
 	end
 	
 	mm_texture.clear("header")
@@ -62,9 +62,9 @@ function mm_texture.reset()
 	
 	if not have_bg then
 		if core.setting_getbool("menu_clouds") then
-			core.set_clouds(true)
+			core.set_clouds(false)
 		else
-			mm_texture.set_dirt_bg()
+			mm_texture.set_menu_bg()
 		end
 	end
 end
@@ -170,7 +170,6 @@ function mm_texture.set_game(identifier, gamedetails)
 	
 	return false
 end
-
 function mm_texture.set_dirt_bg()
 	if mm_texture.texturepack ~= nil then
 		local path = mm_texture.texturepack .. DIR_DELIM .."default_dirt.png"
@@ -178,7 +177,6 @@ function mm_texture.set_dirt_bg()
 			return true
 		end
 	end
-	
 	-- Use universal fallback texture in textures/base/pack
 	local minimalpath = defaulttexturedir .. "menu_bg.png"
 	core.set_background("background", minimalpath, true, 128)
